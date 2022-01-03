@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "pl-PL"
-title: How2BI
+title: BI Ninja
 #added
 #title_separator: "|"
 subtitle: Blog about managing reporting side of business intelligence  
@@ -30,7 +30,7 @@ minimal_mistakes_skin: default
 search: true
 
 # added
-url: "https://www.how2bi.com"
+url: "https://www.bi-ninja.com"
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
   
