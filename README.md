@@ -1,6 +1,6 @@
 # how2bi
 
-Repozytorium bloga www.how2bi.com
+Repozytorium bloga www.BI-Ninja.com
 
 Blog postawiony z wykorzystaniem:
 - https://jekyllrb.com/
