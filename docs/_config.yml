@@ -17,13 +17,11 @@ locale: "en-US"
 title: BI-Ninja.com
 #added
 #title_separator: "|"
-subtitle: IT services for data driven organisation: BI, data science and  data rich web aplications
+subtitle: IT services for data driven organizations -  BI, data science and  data rich apps
 # added end
 email: bubelarek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  BI-Ninja.com is my small  company that provides services in area of bussines analitics and BI solutions development. It build on my  rich analitics expierence in supply chain , logistic and e-commers.  place where you find tips for managing business intelligence projects. 
-  In woday fast peaced world we all need be like Ninja - nimble, fast and efficient. but there with that in mind i do not  also focus on doing it in sustainable  and  organized way.
-
+  BI-Ninja.com is my small  company that provides services in area of business analytics and BI solutions development. It build on my  rich analytics experience in supply chain , logistic and e-commerce. In today’s fast paced world we all need be like Ninja - nimble, fast and efficient – to deliver value to stakeholders. 
 #twitter_username: username
 github_username: bubelarek
 minimal_mistakes_skin: default
@@ -76,7 +74,7 @@ plugins:
 author:
   name   : "Arkadiusz Bubeleski "
   avatar : "/assets/images/bubelarek.jpg"
-  bio    : "Expierence BI analyst, developer beliving that  being agile and nimble can be done in orginized way."
+  bio    : "BI-Ninja.com is my small  company that provides services in area of business analytics and BI solutions development. It build on my  rich analytics experience in supply chain , logistic and e-commerce. In today’s fast paced world we all need be like Ninja - nimble, fast and efficient – to deliver value to stakeholders."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
