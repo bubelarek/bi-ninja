@@ -9,3 +9,4 @@ Blog postawiony z wykorzystaniem:
 - https://gist.github.com/zbeekman/ac6eeb41ea7980f410959b13416d74c9
 - https://medium.com/@samdutton/github-pages-cloudflare-custom-domain-checklist-e86c786194a4
 - https://forestry.io/
+- FULL COPY
