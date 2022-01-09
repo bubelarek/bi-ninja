@@ -74,7 +74,7 @@ plugins:
 author:
   name   : "Arkadiusz Bubeleski "
   avatar : "/assets/images/bubelarek.jpg"
-  bio    : "BI-Ninja.com is my small  company that provides services in area of business analytics and BI solutions development. It build on my  rich analytics experience in supply chain , logistic and e-commerce. In today’s fast paced world we all need be like Ninja - nimble, fast and efficient – to deliver value to stakeholders."
+  bio    : "Experienced Business Intelligence/Data Analyst expert working in industries like supply chain management, logistic and e-commerce. Expert in Tableau, SQL also  certified in Power BI/Azure Data Engineering."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
