@@ -1,8 +1,16 @@
 ---
-permalink: /about/
-title: "About"
+permalink: "/about/"
+title: About
+
 ---
+I am experienced BI developer with **more than  5 year experience in Business Intelligence.** I spend most of my work live in supply chain and e-commerce doing analytics using Tableau, PowerBi, Excel etc. 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Currently I am working consultant in web programing projects as role of system and data analyst.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+When i finish that projects i hope to shift my operations into helping companies save money on BI by migrating Tableau, Power BI and similar dashboard reports to web application that will enhanced and streamline way people used this tools in past.
+
+I call this type of system data driven process improvement/decision making  applications that drive data culture and also are unlimited in what can be done in term of collaboration , data inputs and process workflow - something which i found biggest bottlennext of current state BI solutions. 
+
+My experience in many sectors helps me quickly understand business environment of projects and what users may need. In my deliverables I put main focus on clarity, simplicity and accuracy.
+
+I prefer organized environments for team working (ideally Scrum, Kanban) , however when working individually I also enjoy to work in more VUCA-type environments.
