@@ -22,7 +22,7 @@ subtitle: IT services for data driven organisation: BI, data science and  data r
 email: bubelarek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   BI-Ninja.com is my small  company that provides services in area of bussines analitics and BI solutions development. It build on my  rich analitics expierence in supply chain , logistic and e-commers.  place where you find tips for managing business intelligence projects. 
-  In woday fast peaced world we all need be like Ninja: nimble, fast and efficient, but there with that in mind i do not  also focus on doing it in sustainable  and  organized way.
+  In woday fast peaced world we all need be like Ninja - nimble, fast and efficient. but there with that in mind i do not  also focus on doing it in sustainable  and  organized way.
 
 #twitter_username: username
 github_username: bubelarek
@@ -81,9 +81,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bubelarek/"
- #   - label: "GitHub"
- #     icon: "fab fa-fw fa-github"
- #     url: "https://github.com/bubelarek"
     - label: "e-mail"
       icon: "fas fa-fw fa-at"
       url: "mailto:bubelarek@gmail.com"
