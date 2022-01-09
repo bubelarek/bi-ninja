@@ -1,4 +1,4 @@
-# how2bi
+# bi-ninja.com
 
 Repozytorium bloga www.BI-Ninja.com
 
@@ -8,3 +8,4 @@ Blog postawiony z wykorzystaniem:
 - https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 - https://gist.github.com/zbeekman/ac6eeb41ea7980f410959b13416d74c9
 - https://medium.com/@samdutton/github-pages-cloudflare-custom-domain-checklist-e86c786194a4
+- https://forestry.io/
