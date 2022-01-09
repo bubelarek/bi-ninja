@@ -17,13 +17,13 @@ locale: "pl-PL"
 title: BI-Ninja.com
 #added
 #title_separator: "|"
-subtitle: Blog about managing reporting side of business intelligence  
+subtitle: IT services for data driven organisation: BI, data science and  data rich web aplications
 # added end
 email: bubelarek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  How2BI is place where you find tips for managing business intelligence projects. 
-  It will be based on my 5+ year experience in  area and most recently struggles to lead BI team in sustainable  and  organized way.
-  I will focus on work of BI team not as series of small projects but as continues process of delivering reporting solution.
+  BI-Ninja.com is my small  company that provides services in area of bussines analitics and BI solutions development. It build on my  rich analitics expierence in supply chain , logistic and e-commers.  place where you find tips for managing business intelligence projects. 
+  In woday fast peaced world we all need be like Ninja: nimble, fast and efficient, but there with that in mind i do not  also focus on doing it in sustainable  and  organized way.
+
 #twitter_username: username
 github_username: bubelarek
 minimal_mistakes_skin: default
