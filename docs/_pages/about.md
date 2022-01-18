@@ -3,7 +3,7 @@ permalink: "/about/"
 title: About
 
 ---
-I am experienced BI developer with **more than 5 year experience in Business Intelligence.** I spend most of my work live in supply chain and e-commerce doing analytics using Tableau, PowerBi, Excel etc. 
+I am experienced BI developer with more than 5 year experience in Business Intelligence. I spend most of my work live in supply chain and e-commerce doing analytics using Tableau, PowerBi, Excel etc. 
 
 Currently I am working consultant in web programing projects as role of system and data analyst.
 
