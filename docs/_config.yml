@@ -17,11 +17,11 @@ locale: "en-US"
 title: BI-Ninja.com
 #added
 #title_separator: "|"
-subtitle: IT services for data driven organizations -  BI, data science and  data rich apps
+subtitle:  Services for data driven organizations -  BI, data science and  data rich apps
 # added end
 email: bubelarek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  BI-Ninja.com is my small  company that provides services in area of business analytics and BI solutions development. It build on my  rich analytics experience in supply chain , logistic and e-commerce. In today’s fast paced world we all need be like Ninja - nimble, fast and efficient – to deliver value to stakeholders. 
+  BI-Ninja.com is my small company that provides services in area of business analytics and BI solutions development. It builds on my analytics experience in supply chain, logistic and e-commerce. In today’s fast paced world, we all need be like Ninja - nimble, fast and efficient – to deliver value to stakeholders.
 #twitter_username: username
 github_username: bubelarek
 minimal_mistakes_skin: default
