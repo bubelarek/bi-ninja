@@ -32,7 +32,7 @@ url: "https://www.bi-ninja.com"
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
   
-#logo: "/assets/images/bi.png"
+logo: "/assets/images/logo.png"
 #masthead_title: "My Custom Title"
 #breadcrumbs: true  # disabled by default
 
