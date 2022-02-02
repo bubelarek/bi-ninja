@@ -74,7 +74,7 @@ plugins:
 author:
   name   : "Arkadiusz Bubeleski "
   avatar : "/assets/images/bubelarek.jpg"
-  bio    : "Experienced Business Intelligence/Data Analyst expert working in industries like supply chain management, logistic and e-commerce. Expert in Tableau, SQL also  certified in Power BI/Azure Data Engineering."
+  bio    : "Experienced business intelligence expert working in industries like supply chain management, logistic and e-commerce. Expert in Tableau, SQL also  certified in Power BI/Azure Data Engineering."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
