@@ -134,5 +134,5 @@ comments:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-TW97LLDBVD"
+    tracking_id: "UA-219242858-1"
     anonymize_ip: false # default
